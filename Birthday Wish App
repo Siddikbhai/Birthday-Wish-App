@@ -1,0 +1,13 @@
+# Step 1: Repository Clone करें
+git clone https://github.com/YourUsername/BirthdayWishApp.git
+
+# Step 2: अपने Code की फाइल्स उसमें कॉपी करें
+
+# Step 3: Changes को Add करें
+git add .
+
+# Step 4: Changes को Commit करें
+git commit -m "Initial commit"
+
+# Step 5: Repository में Push करें
+git push origin main
